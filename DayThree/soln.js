@@ -1,5 +1,4 @@
 
-const { count } = require('console');
 const fs = require('fs');
 const input = fs.readFileSync("D:\\Advent-Of-Code2022\\DayThree\\input.txt", { encoding: "utf-8" }).split("\r\n");
 
